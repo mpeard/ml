@@ -1,0 +1,8 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-06-09 09:59:44) [GET]
+
+ActionController::RoutingError (No route matches "/images/%22ml.jpg%22" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
